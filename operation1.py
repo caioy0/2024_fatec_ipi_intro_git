@@ -1,4 +1,4 @@
-#Class to multi two pair of numbasss
+#Class to multi two pair of num
 class Multiplication:
 
     def multiplicar():
@@ -6,7 +6,7 @@ class Multiplication:
         a2 = float(input("Insira um numero: "))
         print(f"answer: {a1*a2}")
 
-#Class to divide two pair of numbasss
+#Class to divide two pair of num
 class Division: 
 
     def dividir():

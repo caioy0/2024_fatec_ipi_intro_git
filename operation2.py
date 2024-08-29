@@ -1,4 +1,4 @@
-#Class to sommme two pair of numbasss
+#Class to sommme two pair of num
 class Somme:
 
     def somar():
@@ -6,7 +6,7 @@ class Somme:
         a2 = float(input("Insert another number: "))
         print(f"answer: {a1+a2}")
 
-#Class to substract two pair of numbasss
+#Class to substract two pair of num
 class Soustraire:
 
     def subtrair():
